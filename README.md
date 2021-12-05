@@ -1,5 +1,5 @@
 # TugasJavaFX
 
-Saddam Surya Mardiansyah
-2017051014
+Saddam Surya Mardiansyah\n
+2017051014\n
 Kelas A
